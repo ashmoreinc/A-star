@@ -1,4 +1,4 @@
-# A-start
+# A-star
 The a star pathfinding algorithm using classes
 
 My quick take on the A-star algorithm use classes to represent each node.
